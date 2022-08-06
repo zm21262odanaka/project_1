@@ -15,9 +15,11 @@ p{
 h1{
 	font-size:180%;
 	margin:0;
-        color:#66cdaa;
+       
       
 }
+
+h1 {color: #66cdaa;}
 
 
 h2{
