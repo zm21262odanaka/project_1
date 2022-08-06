@@ -28,6 +28,7 @@ h2{
 	text-decoration: underline;
 }
 
+h2{ border: dashed thick green; }
 
 h3{
 	font-size:100%;
